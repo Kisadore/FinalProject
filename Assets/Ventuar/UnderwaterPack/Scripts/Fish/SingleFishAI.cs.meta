@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50401156e42c1c640a809cbd9dc5ae82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Scripts/Fish/SingleFishAI.cs
+  uploadId: 645429

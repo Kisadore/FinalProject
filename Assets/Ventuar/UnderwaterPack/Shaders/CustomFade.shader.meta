@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a00ffb0e4f687f44a6691d8602c81ca
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Shaders/CustomFade.shader
+  uploadId: 645429

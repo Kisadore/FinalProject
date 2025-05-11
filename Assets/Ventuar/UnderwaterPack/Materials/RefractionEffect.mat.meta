@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6f44b343b450e647bb658aa8ab8b399
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Materials/RefractionEffect.mat
+  uploadId: 645429

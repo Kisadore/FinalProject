@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6cc83e8e87a45b418ce959a41bcd85f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Prefabs/Fish/_Presets/FishAnimation/MoorishIdol.preset
+  uploadId: 645429

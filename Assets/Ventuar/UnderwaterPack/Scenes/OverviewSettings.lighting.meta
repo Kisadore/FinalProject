@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 923339585ad5e3645abdde4a9413177f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Scenes/OverviewSettings.lighting
+  uploadId: 645429

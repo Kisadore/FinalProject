@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 270c6117935c0a743a9ce43d7ad49e68
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Scripts/LowPolyUnderwaterPack.asmdef
+  uploadId: 645429

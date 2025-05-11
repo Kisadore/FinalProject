@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b32c597a3e03dc48aabe013b4e7557d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Scripts/BuoyancyMaster.cs
+  uploadId: 645429

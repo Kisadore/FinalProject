@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 17ddf4f46dc7a924c96cb7236816cc09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Scripts/Fish/FishSpawner.cs
+  uploadId: 645429

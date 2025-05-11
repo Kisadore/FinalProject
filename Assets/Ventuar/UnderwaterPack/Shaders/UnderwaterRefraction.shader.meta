@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2625ceb21eace3b41901272d9f64ad81
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Shaders/UnderwaterRefraction.shader
+  uploadId: 645429

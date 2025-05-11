@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53d7845690f129a498bafd6ecee084cf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Shaders/PlantCoral.shader
+  uploadId: 645429

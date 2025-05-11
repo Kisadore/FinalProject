@@ -1,0 +1,34 @@
+{
+    "name": "Mouse Action",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "e6796f67-58c6-4287-883f-cbbede570e60",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "76ce4de6-4745-4437-b77f-094e9eef6c9c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d474370f-3c8c-4cbf-975d-bb52850009b1",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

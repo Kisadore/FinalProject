@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cff329929b44f0b4c80bed706ef61e5b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Shaders/Cginc/Shadows.cginc
+  uploadId: 645429

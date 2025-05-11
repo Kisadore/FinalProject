@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ea353b06e521cb4a80158b815ed72f0
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Shaders/WaterCompute.compute
+  uploadId: 645429

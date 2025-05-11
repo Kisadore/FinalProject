@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59b3e0c9849f5de4aa4ff677d169950f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197874
+  packageName: Low Poly Underwater Pack
+  packageVersion: 1.2.0
+  assetPath: Assets/Ventuar/UnderwaterPack/Post Processing/Underwater.asset
+  uploadId: 645429
